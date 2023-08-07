@@ -1,4 +1,4 @@
-# List of France Match during the 2009/2010 soccer season
+-- List of France Match during the 2009/2010 soccer season
 
 SELECT C.NAME AS COUNTRY,  L.NAME AS LEAGUE_NAME, M.SEASON, M.DATE, 
 HT.TEAM_LONG_NAME AS HOME_TEAM_NAME, AT.TEAM_LONG_NAME AS AWAY_TEAM_NAME, 
